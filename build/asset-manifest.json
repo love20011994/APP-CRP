@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/APP-CRP/static/css/main.4940ee63.chunk.css",
+    "main.js": "/APP-CRP/static/js/main.ba3ea0aa.chunk.js",
+    "main.js.map": "/APP-CRP/static/js/main.ba3ea0aa.chunk.js.map",
+    "runtime-main.js": "/APP-CRP/static/js/runtime-main.34133e07.js",
+    "runtime-main.js.map": "/APP-CRP/static/js/runtime-main.34133e07.js.map",
+    "static/js/2.6b27bae2.chunk.js": "/APP-CRP/static/js/2.6b27bae2.chunk.js",
+    "static/js/2.6b27bae2.chunk.js.map": "/APP-CRP/static/js/2.6b27bae2.chunk.js.map",
+    "index.html": "/APP-CRP/index.html",
+    "static/css/main.4940ee63.chunk.css.map": "/APP-CRP/static/css/main.4940ee63.chunk.css.map",
+    "static/js/2.6b27bae2.chunk.js.LICENSE.txt": "/APP-CRP/static/js/2.6b27bae2.chunk.js.LICENSE.txt",
+    "static/media/AMZN.8a708a0e.svg": "/APP-CRP/static/media/AMZN.8a708a0e.svg",
+    "static/media/GOOGL.63312655.png": "/APP-CRP/static/media/GOOGL.63312655.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34133e07.js",
+    "static/js/2.6b27bae2.chunk.js",
+    "static/css/main.4940ee63.chunk.css",
+    "static/js/main.ba3ea0aa.chunk.js"
+  ]
+}
